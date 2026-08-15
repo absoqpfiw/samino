@@ -1,0 +1,6 @@
+Samino GitHub upload:
+1) Extract this ZIP.
+2) Upload ALL files and folders inside the Samino folder to the repository root.
+3) Keep the folder structure unchanged.
+4) You should see app/, build.gradle.kts, settings.gradle.kts and .github/ at the repository root.
+5) Go to Actions -> Build Samino APK -> Run workflow.
